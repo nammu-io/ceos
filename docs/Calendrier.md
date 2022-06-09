@@ -5,9 +5,8 @@ Jeudi 12 mai 2022
 
 ## Follow-Up Meetings ##
 - [Lien Espace Gather](https://app.gather.town/app/jSu7iMydYhPp3Zhe/defi-idoc-sante)
-
-### Ordered List
-1.Jeudi 9 Juin 2022 - 14h à 14h45
+<br/><br/>
+1.Jeudi 9 Juin 2022 - 14h à 14h45<br/>
 2.Jeudi 16 Juin 2022 - 14h à 14h45 (à confirmer)
 
 ## Présentation du Projet ##
