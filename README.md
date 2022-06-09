@@ -26,5 +26,5 @@ Bienvenue à tous ceux qui veulent travailler sur ce défi et notamment aux prof
 - [Méthodologie](https://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
 - [Tech Stack](https://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
 - [Dataset](https://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
-- [Calendrier](hhttps://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
+- [Calendrier](https://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
 
