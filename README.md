@@ -20,7 +20,7 @@ partir d’un cas concret pour construire l’indicateur de complexité et sa vi
 Bienvenue à tous ceux qui veulent travailler sur ce défi et notamment aux professionnels de santé, pilotes/gestionnaires de projets, développeurs, créatifs ou experts en documents de santé.
 
 # Documentation du projet :
-- revue de la littérature
+- revue de la littérature [Markdown Guide](https://github.com/nammu-io/ceos/edit/main/README.md)
 - entretiens avec des professionels
 - description du besoin
 - tech stack
