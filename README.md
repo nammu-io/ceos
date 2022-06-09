@@ -20,11 +20,11 @@ partir d’un cas concret pour construire l’indicateur de complexité et sa vi
 Bienvenue à tous ceux qui veulent travailler sur ce défi et notamment aux professionnels de santé, pilotes/gestionnaires de projets, développeurs, créatifs ou experts en documents de santé.
 
 # Documentation du projet :
-- [Revue de la Littérature](https://github.com/nammu-io/ceos/edit/main/README.md)
-- [Entretien avec des professionnels](https://github.com/nammu-io/ceos/edit/main/README.md)
-- [Description du besoin](https://github.com/nammu-io/ceos/edit/main/README.md)
-- [Méthodologie](https://github.com/nammu-io/ceos/edit/main/README.md)
-- [Tech Stack](https://github.com/nammu-io/ceos/edit/main/README.md)
-- [Dataset](https://github.com/nammu-io/ceos/edit/main/README.md)
-- [Calendrier](https://github.com/nammu-io/ceos/edit/main/README.md)
+- [Revue de la Littérature](https://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
+- [Entretien avec des professionnels](https://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
+- [Description du besoin](https://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
+- [Méthodologie](https://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
+- [Tech Stack](https://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
+- [Dataset](https://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
+- [Calendrier](hhttps://github.com/nammu-io/ceos/blob/main/Revue-Litt%C3%A9rature.md)
 
