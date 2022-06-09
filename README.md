@@ -23,7 +23,7 @@ Bienvenue à tous ceux qui veulent travailler sur ce défi et notamment aux prof
 - [Revue de la Littérature](https://github.com/nammu-io/ceos/blob/main/docs/RevueLitt%C3%A9rature.md)
 - [Entretien avec des professionnels](https://github.com/nammu-io/ceos/blob/main/docs/EntretiensProfessionnels.md)
 - [Description du besoin](https://github.com/nammu-io/ceos/blob/main/docs/DescriptionBesoins.md)
-- [Méthodologie](https://github.com/nammu-io/ceos/blob/main/docs/Methodologie.md)
+- [Méthodologie](https://github.com/nammu-io/ceos/blob/main/docs/M%C3%A9thodologie.md)
 - [Tech Stack](https://github.com/nammu-io/ceos/blob/main/docs/TechStack.md)
 - [Dataset](https://github.com/nammu-io/ceos/blob/main/docs/Dataset.md)
 - [Calendrier](https://github.com/nammu-io/ceos/blob/main/docs/Calendrier.md)
