@@ -21,10 +21,10 @@ Bienvenue à tous ceux qui veulent travailler sur ce défi et notamment aux prof
 
 # Documentation du projet :
 - [Revue de la Littérature](https://github.com/nammu-io/ceos/edit/main/README.md)
-- [Entretien avec des professionnels](https://github.com/nammu-io/ceos/edit/main/README.md)entretiens avec des professionels
-- [Description du besoin](https://github.com/nammu-io/ceos/edit/main/README.md)entretiens avec des professionelsdescription du besoin
-- [Méthodologie](https://github.com/nammu-io/ceos/edit/main/README.md)tech stackcalendrier
-- [Tech Stack](https://github.com/nammu-io/ceos/edit/main/README.md)tech stack
-- [Dataset](https://github.com/nammu-io/ceos/edit/main/README.md)tech stackcalendrier
-- [Calendrier](https://github.com/nammu-io/ceos/edit/main/README.md)tech stackcalendrier
+- [Entretien avec des professionnels](https://github.com/nammu-io/ceos/edit/main/README.md)
+- [Description du besoin](https://github.com/nammu-io/ceos/edit/main/README.md)
+- [Méthodologie](https://github.com/nammu-io/ceos/edit/main/README.md)
+- [Tech Stack](https://github.com/nammu-io/ceos/edit/main/README.md)
+- [Dataset](https://github.com/nammu-io/ceos/edit/main/README.md)
+- [Calendrier](https://github.com/nammu-io/ceos/edit/main/README.md)
 
