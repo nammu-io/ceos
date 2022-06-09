@@ -20,9 +20,11 @@ partir d’un cas concret pour construire l’indicateur de complexité et sa vi
 Bienvenue à tous ceux qui veulent travailler sur ce défi et notamment aux professionnels de santé, pilotes/gestionnaires de projets, développeurs, créatifs ou experts en documents de santé.
 
 # Documentation du projet :
-- revue de la littérature [Markdown Guide](https://github.com/nammu-io/ceos/edit/main/README.md)
-- entretiens avec des professionels
-- description du besoin
-- tech stack
-- calendrier
+- [Revue de la Littérature](https://github.com/nammu-io/ceos/edit/main/README.md)
+- [Entretien avec des professionnels](https://github.com/nammu-io/ceos/edit/main/README.md)entretiens avec des professionels
+- [Description du besoin](https://github.com/nammu-io/ceos/edit/main/README.md)entretiens avec des professionelsdescription du besoin
+- [Méthodologie](https://github.com/nammu-io/ceos/edit/main/README.md)tech stackcalendrier
+- [Tech Stack](https://github.com/nammu-io/ceos/edit/main/README.md)tech stack
+- [Dataset](https://github.com/nammu-io/ceos/edit/main/README.md)tech stackcalendrier
+- [Calendrier](https://github.com/nammu-io/ceos/edit/main/README.md)tech stackcalendrier
 
