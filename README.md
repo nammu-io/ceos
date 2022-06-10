@@ -1,8 +1,9 @@
-# Ceos
-Ceos est un projet qui vise à mesurer la complexité d’une prescription médicale par différents indicateurs : nombre d’éléments réglementaires, nombre de nœuds, diversité des champs sémantiques, profondeur d’une arborescence etc…
+# Céos
+Céos est un projet qui vise à mesurer la complexité d’une situation clinique par rapport à une base de connaissance et par différents indicateurs : nombre d’éléments réglementaires, nombre de nœuds, diversité des champs sémantiques, profondeur d’une arborescence etc…
+
 
 # Nom du projet(provisoire) :
-Ceos - Dieu de la clairvoyance dans la mythologie grecque
+Céos - Dieu de la clairvoyance dans la mythologie grecque
 
 # Description du besoin (cas clinique auquel répond votre projet) (provisoire):
 Mesure de la complexité d’une prescription par différents indicateurs : nombre d’éléments réglementaires, nombre nœuds, diversité des champs sémantiques, profondeur d’une arborescence etc…
