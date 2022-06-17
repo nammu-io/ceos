@@ -14,7 +14,9 @@ Vendredi 17 juin 2022 16h30-17h30
 - [Lien Espace Gather](https://app.gather.town/app/jSu7iMydYhPp3Zhe/defi-idoc-sante)
 <br/><br/>
 1.Jeudi 9 Juin 2022 - 14h à 14h45<br/>
-2.Jeudi 16 Juin 2022 - 16h30 à 17h15 (à confirmer)
+2.Jeudi 16 Juin 2022 - 16h30 à 17h15<br/>
+Discussion autour des entretiens exploratoires avec des responsables des services d'urgence.
+problématique : Comment modeliser la complexité d'une prescription pour un responsable de service d'urgence ?
 
 ## Présentation du Projet ##
 Jeudi 6 octobre 2022 (à confirmer)
