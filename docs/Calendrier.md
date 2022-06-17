@@ -6,6 +6,10 @@ Jeudi 12 mai 2022
 - [Replay](https://www.youtube.com/watch?v=bMGwjAb0nE0)
 <br/>
 Vendredi 17 juin 2022 16h30-17h30
+Mme Cavalier - Buts du défi est de : <br/>
+1.Faciliter la lecture des recommendations de la HAS.
+2.Savoir comment les recommendations sont appliquées.
+3.Demander aux utilisateurs de quoi ils ont besoin.
 
 - [Lien](https://app.gather.town/app/jSu7iMydYhPp3Zhe/defi-idoc-sante)
 <br/>
