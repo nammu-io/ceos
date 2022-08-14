@@ -2,19 +2,19 @@
 Céos est un projet qui vise à mesurer la complexité d’une situation clinique par rapport à une base de connaissance et par différents indicateurs : nombre d’éléments réglementaires, nombre de nœuds, diversité des champs sémantiques, profondeur d’une arborescence etc…
 
 
-# Nom du projet(provisoire) :
+# Nom du projet :
 Céos - Dieu de la clairvoyance dans la mythologie grecque
 
-# Description du besoin (cas clinique auquel répond votre projet) (provisoire):
+# Description du besoin:
 Mesure de la complexité d’une prescription par différents indicateurs : nombre d’éléments réglementaires, nombre nœuds, diversité des champs sémantiques, profondeur d’une arborescence etc…
 
-# Membres de l’équipe (elle peut s’agrandir) :
+# Membres de l’équipe :
 nous sommes pour le moment trois
 -deux experts en traitement automatique du langage @mannion @AchOkl
 -un ambassadeur @christophe
 Mentor : @p.liot
 
-# Description du projet (20 lignes maximum) (en cours d’élaboration):
+# Description du projet:
 partir d’un cas concret pour construire l’indicateur de complexité et sa visualisation. Cas évoqués : médecins urgentistes, pathologies spécifiques…
 
 # Besoins en compétences :
